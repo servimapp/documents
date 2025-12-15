@@ -1,0 +1,14 @@
+# Ignorar absolutamente todo
+*
+
+# Permitir archivos base del repositorio
+!.gitignore
+!README.md
+
+# Permitir estructura de documentación
+!docs/
+!docs/**
+!diagrams/
+!diagrams/**
+!architecture/
+!architecture/**
