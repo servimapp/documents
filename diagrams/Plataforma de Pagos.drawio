@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+  <diagram name="Página-1" id="loLreGuahA0rWkpPEATH">
+    <mxGraphModel dx="1034" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VXQSKTPd-QDq2OSl5CMo-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Persona" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQSKTPd-QDq2OSl5CMo-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Seleccionar el tipo de pago" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQSKTPd-QDq2OSl5CMo-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Confirmar el tipo de pago" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-980" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQSKTPd-QDq2OSl5CMo-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" target="VXQSKTPd-QDq2OSl5CMo-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="-1020" as="sourcePoint" />
+            <mxPoint x="440" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXQSKTPd-QDq2OSl5CMo-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.063;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" target="VXQSKTPd-QDq2OSl5CMo-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="-1000" as="sourcePoint" />
+            <mxPoint x="440" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
