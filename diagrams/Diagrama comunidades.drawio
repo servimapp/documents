@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+  <diagram name="Página-1" id="Jhvpqhs5IJzvOtnfmi2E">
+    <mxGraphModel dx="1034" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="piors55TPJO7wYqvsvGF-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="persona" vertex="1">
+          <mxGeometry height="70" width="40" x="20" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="190" x="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="250" as="sourcePoint" />
+            <mxPoint x="285" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-14" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Sistema" vertex="1">
+          <mxGeometry height="70" width="40" x="740" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-54" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-58" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Solicitar unirse a una comunidad&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="155" x="140" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Solicitar unirse a multiples comunidades&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="150" x="174.75" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Completar formulario de creacion de comunidad" vertex="1">
+          <mxGeometry height="70" width="150" x="50" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-84" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="349" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-85" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="359" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-86" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mostrar Carrusel de comunidades cercanas&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="201" x="339" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Listar comunidades unidas" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validar acceso a creacion de comunidad" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mostrar lista de comunidades administradas" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar estado de solicitudes (comunidad privada)" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualizar Header con informacion de la comunidad" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Filtrar y mostrar solo miembros (buscador exclusivo)" vertex="1">
+          <mxGeometry height="90" width="211" x="339" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-94" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Desplegar feed del muro de recomendaciones" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-95" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualizar muro de recomendaciones" vertex="1">
+          <mxGeometry height="70" width="150" x="180" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-96" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Restringir Botones de accion Invitar Postear segun Rol" vertex="1">
+          <mxGeometry height="120" width="211" x="349" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-97" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Renderizar seccion de aununcios rotativos" vertex="1">
+          <mxGeometry height="70" width="150" x="379.5" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validar y limitar respuestas a etiquetas validas" vertex="1">
+          <mxGeometry height="70" width="150" x="379.5" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-100" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="130" as="sourcePoint" />
+            <mxPoint x="140" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-102" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=0.93;entryY=0.778;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="piors55TPJO7wYqvsvGF-87" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-105" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="piors55TPJO7wYqvsvGF-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-106" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;entryX=0.253;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.782;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;" target="piors55TPJO7wYqvsvGF-82" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="510" as="sourcePoint" />
+            <mxPoint x="180" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-110" connectable="0" parent="piors55TPJO7wYqvsvGF-106" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona premium" vertex="1">
+          <mxGeometry relative="1" x="0.0089" y="-3" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-108" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="piors55TPJO7wYqvsvGF-83" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="820" as="sourcePoint" />
+            <mxPoint x="170" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-109" connectable="0" parent="piors55TPJO7wYqvsvGF-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona Premium&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.0087" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-112" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar Dashboard de adminsitracion" vertex="1">
+          <mxGeometry height="70" width="150" x="170" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-113" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Solicitar unirse a multiples comunidades" vertex="1">
+          <mxGeometry height="70" width="180" x="130" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-114" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font&gt;&lt;span data-contrast=&quot;auto&quot; lang=&quot;ES-MX&quot; class=&quot;TextRun SCXW156718994 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); line-height: 20.925px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW156718994 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;Completar formulario de creación de comunidad&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW156718994 BCX0&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); line-height: 20.925px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="139.5" x="180" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-116" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;entryX=0.383;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-113" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="250" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-117" connectable="0" parent="piors55TPJO7wYqvsvGF-116" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona premium" vertex="1">
+          <mxGeometry relative="1" x="0.0203" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-118" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;entryX=0.072;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-114" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="450" as="sourcePoint" />
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-119" connectable="0" parent="piors55TPJO7wYqvsvGF-118" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona Premium" vertex="1">
+          <mxGeometry relative="1" x="-0.0326" y="-1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-120" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-112" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="710" as="sourcePoint" />
+            <mxPoint x="200" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-121" connectable="0" parent="piors55TPJO7wYqvsvGF-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona administrador" vertex="1">
+          <mxGeometry relative="1" x="0.0019" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-122" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.573;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-95" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="70" y="840" as="sourcePoint" />
+            <mxPoint x="280" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-123" connectable="0" parent="piors55TPJO7wYqvsvGF-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona regular y premium" vertex="1">
+          <mxGeometry relative="1" x="-0.0057" y="3" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-125" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Responder a un post existente" vertex="1">
+          <mxGeometry height="70" width="150" x="189" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-126" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-1" style="endArrow=classic;html=1;rounded=0;" target="piors55TPJO7wYqvsvGF-125" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="1010" as="sourcePoint" />
+            <mxPoint x="200" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-127" connectable="0" parent="piors55TPJO7wYqvsvGF-126" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Persona Regular y Premium" vertex="1">
+          <mxGeometry relative="1" x="0.6084" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-128" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ofrecer opcion de invitacion externa (Growth Hack)" vertex="1">
+          <mxGeometry height="70" width="150" x="390" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-131" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="piors55TPJO7wYqvsvGF-88" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-132" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="piors55TPJO7wYqvsvGF-90" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="480" as="sourcePoint" />
+            <mxPoint x="550" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-133" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="piors55TPJO7wYqvsvGF-91" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="620" as="sourcePoint" />
+            <mxPoint x="610" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-134" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="piors55TPJO7wYqvsvGF-92" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="640" as="sourcePoint" />
+            <mxPoint x="640" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-135" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;" target="piors55TPJO7wYqvsvGF-93" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="670" as="sourcePoint" />
+            <mxPoint x="630" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-136" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=0.913;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-94" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="770" as="sourcePoint" />
+            <mxPoint x="600" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-137" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;" target="piors55TPJO7wYqvsvGF-96" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="830" as="sourcePoint" />
+            <mxPoint x="570" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-138" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="piors55TPJO7wYqvsvGF-97" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="840" as="sourcePoint" />
+            <mxPoint x="680" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-141" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1.003;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-98" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="900" as="sourcePoint" />
+            <mxPoint x="640" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piors55TPJO7wYqvsvGF-142" edge="1" parent="1" source="piors55TPJO7wYqvsvGF-19" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" target="piors55TPJO7wYqvsvGF-128" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="970" as="sourcePoint" />
+            <mxPoint x="740" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
